@@ -1,7 +1,7 @@
 package test
 
 import (
-	"HaibaraAi123/spider/spider"
+	"HaibaraAi123/gospider/spider"
 	"testing"
 )
 
